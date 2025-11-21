@@ -32,13 +32,13 @@ Lambda’s ESP system renders clean, minimalistic corner boxes around visible
 targets. The design focuses on clarity, performance, and readability, ensuring
 you always maintain instant visual awareness of nearby entities.
 
-➤ Tracers
+##➤ Tracers
 
 Lambda can draw directional tracers from the center of your screen to
 on-screen targets. This provides immediate directional awareness and helps track
 positions even in fast-paced scenes or cluttered environments.
 
-⌨️ Custom Keybinds
+##⌨️ Custom Keybinds
 
 Every module in Lambda can be mapped to any key you choose.
 
