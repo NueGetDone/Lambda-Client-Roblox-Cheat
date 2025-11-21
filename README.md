@@ -10,92 +10,42 @@ Lambda runs 100% in usermode, making it lightweight, portable, and safe to
 launch on any standard system.
 
 # 🚀 Features
-## 🎯 Aim Assist
+## 🎯 Aim Assist / Aimbot
 
-Lambda includes a configurable aim-assist engine allowing users to fine-tune
-their preferred level of automation.
+Lambda includes a configurable aim-assist engine allowing you to configure the settings to your
+preferred level of automation.
 
 You can choose any value between 0.0 and 1.0:
 
 1.0 — Full lock-on behavior
 
-0.0 — Zero mouse movement
+0.0 — No mouse movement
 
-0.1–0.9 — Smooth, controlled, human-like targeting
+0.1–0.9 — Options to make the aimbot not quite lock on, but still assist you.
 
-This gives you full control over whether you prefer subtle aim smoothing or
-maximum strength snap-to-target locking.
+## 🟦 ESP — Corner Boxes
 
-##🟦 ESP — Corner Boxes
+Lambda’s ESP system renders corner boxes around other players, showing you where they are, even behind walls.
 
-Lambda’s ESP system renders clean, minimalistic corner boxes around visible
-targets. The design focuses on clarity, performance, and readability, ensuring
-you always maintain instant visual awareness of nearby entities.
+## ➤ Tracers
 
-##➤ Tracers
+Lambda can draw tracers from the center of your screen to
+other players, showing you both the direction of enemies around you and their movement.
 
-Lambda can draw directional tracers from the center of your screen to
-on-screen targets. This provides immediate directional awareness and helps track
-positions even in fast-paced scenes or cluttered environments.
-
-##⌨️ Custom Keybinds
+## ⌨️ Custom Keybinds
 
 Every module in Lambda can be mapped to any key you choose.
 
-Instant toggles
+## 🔄 Persistent Process Attachment
 
-Personalized layouts
-
-Optimized control flow for any playstyle
-
-No hard-coded restrictions. Every feature is fully configurable.
-
-##🔄 Persistent Process Attachment
-
-Lambda remains attached to the running sandbox session, even during:
-
-Scene transitions
-
-World swaps
-
-Teleports
-
-Multi-game changes
-
-Once attached, Lambda stays active and operational until you close it.
-
-##💾 Persistent Configurations
-
-Every setting inside Lambda is saved the moment it’s changed.
-
-One-time setup
-
-Automatic reload on startup
-
-No need to rebuild your configuration every session
-
-Your preferred layout and module settings remain exactly as you left them.
+Lambda remains attached to the running sandbox session, even during teleports and game changes.
 
 ##🧩 100% Usermode
 
 Lambda requires no driver, no kernel access, and no boot-time setup.
+This means there is no need to setup external drivers or use specific boot modes to run the application.
 
-- Benefits include:
-
-- No elevated permissions
-
-- No system modification
-
-- No unstable kernel hooks
-
-- Clean, external operation
-
-- Just run the executable and you’re ready to go.
-
-##📦 Summary
-
-Lambda Client is a fast, external, CLI-based mod client offering:
-
+## 📦 Feature Summary
 - Aim-assist
 
 - ESP
@@ -111,6 +61,3 @@ Lambda Client is a fast, external, CLI-based mod client offering:
 - Lightweight usermode execution
 
 - Multi-game support
-
-A clean, efficient, fully configurable external mod client built for players who
-want consistent, dependable performance across every supported game session.
