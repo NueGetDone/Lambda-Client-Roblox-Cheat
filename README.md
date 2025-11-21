@@ -1,3 +1,6 @@
+# Get free access to Lambda Client at
+- Discord: https://discord.gg/BvzD8JSwCU
+
 # Lambda Client — External Mod Client
 
 Lambda Client is a fully external, terminal-user-interface cheat client built for the
@@ -61,6 +64,3 @@ This means there is no need to setup external drivers or use specific boot modes
 - Lightweight usermode execution
 
 - Multi-game support
-
-# Get free access at
-- Discord: https://discord.gg/BvzD8JSwCU
