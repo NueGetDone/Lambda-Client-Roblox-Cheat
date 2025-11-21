@@ -40,7 +40,7 @@ Every module in Lambda can be mapped to any key you choose.
 
 Lambda remains attached to the running sandbox session, even during teleports and game changes.
 
-##🧩 100% Usermode
+## 🧩 No drivers required
 
 Lambda requires no driver, no kernel access, and no boot-time setup.
 This means there is no need to setup external drivers or use specific boot modes to run the application.
@@ -61,3 +61,6 @@ This means there is no need to setup external drivers or use specific boot modes
 - Lightweight usermode execution
 
 - Multi-game support
+
+# Get free access at
+- Discord: https://discord.gg/BvzD8JSwCU
